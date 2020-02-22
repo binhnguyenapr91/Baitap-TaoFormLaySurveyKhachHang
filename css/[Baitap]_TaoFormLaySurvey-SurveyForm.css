@@ -1,0 +1,40 @@
+.ulStyle{
+    list-style-type: none;
+}
+.subheaderForm{
+    font-size: small;
+    padding-left: 50px
+
+}
+.headTable{
+    background-color: lightgrey;
+    text-align: center;
+    font-size: small;
+}
+.tableEnd{
+    width: 100%;
+    border-collapse: collapse;
+    border: gray 1px solid;
+
+}
+
+.headerForm{
+    padding-left: 50px
+}
+.questionHeader{
+    font-weight: bold;
+}
+.fieldsetStyle{
+    border: 0;
+}
+.firsColum{
+    font-weight: bold;
+}
+.radioTD{
+    text-align: center;
+}
+
+.valueOfTableRadio{
+    font-size: smaller;
+    color: gray;
+}
